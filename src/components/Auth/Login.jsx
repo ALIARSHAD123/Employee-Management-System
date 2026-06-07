@@ -75,7 +75,7 @@ const Login = ({ handleLogin }) => {
         </form>
 
         <p className="text-center text-xs text-gray-400 mt-6">
-          Account nahi hai?{" "}
+          Account Not Found{" "}
           <a href="#" className="text-emerald-600 hover:underline">
             Sign up
           </a>

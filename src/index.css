@@ -1,17 +1,17 @@
 @import "tailwindcss";
 
-*{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+* {
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
 }
-body{
+body {
   background-color: black;
-} 
-#tasklist::-webkit-scrollbar{
+}
+#tasklist::-webkit-scrollbar {
   display: none;
-
 }
 
-#alltask::-webkit-scrollbar{
+#alltask::-webkit-scrollbar {
   display: none;
-
 }
